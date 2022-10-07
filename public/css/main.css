@@ -6,6 +6,10 @@ body {
     --black: #201a23;
 }
 
+.padding-top {
+    padding-top: 30px;
+}
+
 .product-card figure {
     text-align: center;
     padding: 5px;
@@ -143,4 +147,10 @@ body {
 .cart-right {
     display: flex;
     align-items: center;
+}
+
+.rectangle-img {
+    object-fit: cover;
+    object-position: center center;
+    aspect-ratio: 3/4;
 }

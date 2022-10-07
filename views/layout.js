@@ -36,17 +36,15 @@ module.exports = ({ content }) => {
                             </div>
                         </div>
                     </nav>
-                    <nav class="navbar navbar-bottom">
+                    <nav class="navbar navbar-bottom padding-top">
                         <div class="container navbar-container">
                             <div>
-                                <a href="/">
-                                    <h3 class="title">EComm Shop</h3>
-                                </a>
+                                <h3 class="title">EComm Shop</h3>
                             </div>
                             <div class="navbar-item">
-                                <div class="narbar-buttons">
+                                <div class="navbar-buttons">
                                     <div class="navbar-item">
-                                        <a href="/"><i class="fa fa-star"></i> Products</a> <a href="/cart"><i class="fa fa-shopping-cart"></i> Cart</a>
+                                        <a href="/"><i class="fa fa-star"></i> Products</a>&nbsp;&nbsp;<a href="/cart"><i class="fa fa-shopping-cart"></i> Cart</a>
                                     </div>
                                 </div>
                             </div>
